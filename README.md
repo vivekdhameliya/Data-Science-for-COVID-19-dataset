@@ -1,4 +1,4 @@
-# Data-Science-for-COVID-19-dataset
+# Collecting-COVID-19-dataset
 ## Experiments from the book of data science with COVID-19 dataset
 
 * On December 31, 2019, the WHO was informed of an outbreak of “pneumonia of unknown cause” detected in Wuhan City, 
