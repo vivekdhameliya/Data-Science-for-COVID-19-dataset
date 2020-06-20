@@ -19,4 +19,4 @@ those of the prior referenced coronaviruses.
 * Here, I am implementing some data science methods and algorithem by following buisness model known as CRISP-DM. In which I will cover Data understanding, data preparation, modelling, evaluation and deployment.
 
 
-### follow on [Vivek Dhameliya on medium](https://medium.com/@dhameliyavivek99)
+### Check out my other articles and follow me on Medium [Vivek Dhameliya on medium](https://medium.com/@dhameliyavivek99)
