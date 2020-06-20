@@ -16,7 +16,4 @@ those of the prior referenced coronaviruses.
 
 * Currently, Many universities and data scientists applying Machine learning algorithms and statistics knowledge to find correlation among data, predicting the deaths, new infections, and so on. There are many opensource COVID-19 datasets are available, which have updated information on a daily basis.
 
-* Here, I am implementing some data science methods and algorithem by following buisness model known as CRISP-DM. In which I will cover Data understanding, data preparation, modelling, evaluation and deployment.
-
-
 ### Check out my other articles and follow me on Medium [Vivek Dhameliya on medium](https://medium.com/@dhameliyavivek99)
